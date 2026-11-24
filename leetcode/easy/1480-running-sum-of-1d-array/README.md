@@ -47,8 +47,8 @@ Output: [3,4,6,16,17]
 
 **Language:** C  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 11.9 MB (beats 39.93%)  
-**Submitted:** 2026-11-24T17:04:26.918Z  
+**Memory:** 11.7 MB (beats 67.41%)  
+**Submitted:** 2026-11-24T17:34:17.429Z  
 
 ```c
 /**
